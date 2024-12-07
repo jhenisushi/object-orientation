@@ -1,6 +1,6 @@
-package a.unidirectionalassociations.domain;
+package b.bidirectionalassociations.domain;
 
-// many-to-one association (unidirectional)
+// many-to-one association (bidirectional)
 public class Player {
     private String name;
     private Team team;
@@ -12,6 +12,10 @@ public class Player {
         } else {
             System.out.println("Player is not assigned to any team.");
         }
+    }
+
+    public Player(String name) {
+        this.name = name;
     }
 
     public Player(String name, Team team) {

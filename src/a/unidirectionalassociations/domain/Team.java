@@ -1,4 +1,4 @@
-package associations.domain;
+package a.unidirectionalassociations.domain;
 
 import learningfunctions.domain.Player;
 

@@ -1,6 +1,6 @@
-package associations.test;
-import associations.domain.Team;
-import associations.domain.Player;
+package a.unidirectionalassociations.test;
+import a.unidirectionalassociations.domain.Team;
+import a.unidirectionalassociations.domain.Player;
 
 public class PlayerTest {
     // Unidirectional association (Player -> Team)

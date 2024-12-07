@@ -1,4 +1,4 @@
-package associations.domain;
+package a.unidirectionalassociations.domain;
 
 // many-to-one association (unidirectional)
 public class School {

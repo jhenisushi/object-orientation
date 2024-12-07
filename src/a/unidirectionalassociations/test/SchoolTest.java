@@ -1,7 +1,7 @@
-package associations.test;
+package a.unidirectionalassociations.test;
 
-import associations.domain.Professor;
-import associations.domain.School;
+import a.unidirectionalassociations.domain.Professor;
+import a.unidirectionalassociations.domain.School;
 
 public class SchoolTest {
     // Unidirectional association, (School -> Professor)
