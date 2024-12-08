@@ -1,4 +1,4 @@
-package java.core.e.inheritance.domain;
+package javacore.e.inheritance.domain;
 
 public class Person { // extends Object
     private String name;

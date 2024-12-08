@@ -1,4 +1,4 @@
-package java.core.e.inheritance.domain;
+package javacore.e.inheritance.domain;
 
 public class Employee extends Person {
     private String role;

@@ -1,4 +1,4 @@
-package java.core.b.unidirectionalassociations.domain;
+package javacore.b.unidirectionalassociations.domain;
 
 // many-to-one association (unidirectional)
 public class School {

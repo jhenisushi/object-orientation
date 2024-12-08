@@ -1,8 +1,8 @@
-package java.core.e.inheritance.test;
+package javacore.e.inheritance.test;
 
-import java.core.e.inheritance.domain.Person;
-import java.core.e.inheritance.domain.Address;
-import java.core.e.inheritance.domain.Employee;
+import javacore.e.inheritance.domain.Person;
+import javacore.e.inheritance.domain.Address;
+import javacore.e.inheritance.domain.Employee;
 
 public class HerancaTest {
     // 0 - Static initialization block of super class is executed when JVM loads superclass

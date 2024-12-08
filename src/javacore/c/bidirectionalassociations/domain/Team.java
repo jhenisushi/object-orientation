@@ -1,4 +1,4 @@
-package java.core.c.bidirectionalassociations.domain;
+package javacore.c.bidirectionalassociations.domain;
 
 // one-to-many association (bidirectional)
 public class Team {

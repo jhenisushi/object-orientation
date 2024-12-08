@@ -1,4 +1,4 @@
-package java.core.c.bidirectionalassociations.domain;
+package javacore.c.bidirectionalassociations.domain;
 
 // many-to-one association (bidirectional)
 public class Player {

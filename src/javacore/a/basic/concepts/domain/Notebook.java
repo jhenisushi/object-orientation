@@ -1,4 +1,4 @@
-package java.core.a.basic.concepts.domain;
+package javacore.a.basic.concepts.domain;
 
 public class Notebook {
     // 0 - all the statics are executed when JVM loads the class

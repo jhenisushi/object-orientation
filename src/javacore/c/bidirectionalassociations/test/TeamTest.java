@@ -1,6 +1,6 @@
-package java.core.c.bidirectionalassociations.test;
-import java.core.c.bidirectionalassociations.domain.Player;
-import java.core.c.bidirectionalassociations.domain.Team;
+package javacore.c.bidirectionalassociations.test;
+import javacore.c.bidirectionalassociations.domain.Player;
+import javacore.c.bidirectionalassociations.domain.Team;
 
 public class TeamTest {
     // Bidirectional association (Player <-> Team)

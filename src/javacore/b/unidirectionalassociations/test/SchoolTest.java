@@ -1,7 +1,7 @@
-package java.core.b.unidirectionalassociations.test;
+package javacore.b.unidirectionalassociations.test;
 
-import java.core.b.unidirectionalassociations.domain.Professor;
-import java.core.b.unidirectionalassociations.domain.School;
+import javacore.b.unidirectionalassociations.domain.Professor;
+import javacore.b.unidirectionalassociations.domain.School;
 
 public class SchoolTest {
     // Unidirectional association, (School -> Professor)

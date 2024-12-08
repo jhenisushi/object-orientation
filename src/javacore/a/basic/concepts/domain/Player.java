@@ -1,4 +1,4 @@
-package java.core.a.basic.concepts.domain;
+package javacore.a.basic.concepts.domain;
 
 public class Player {
     private String name;

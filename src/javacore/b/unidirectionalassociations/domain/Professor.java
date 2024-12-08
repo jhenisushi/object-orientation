@@ -1,4 +1,4 @@
-package java.core.b.unidirectionalassociations.domain;
+package javacore.b.unidirectionalassociations.domain;
 
 //
 public class Professor {

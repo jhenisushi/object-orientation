@@ -1,6 +1,6 @@
-package java.core.b.unidirectionalassociations.test;
-import java.core.b.unidirectionalassociations.domain.Team;
-import java.core.b.unidirectionalassociations.domain.Player;
+package javacore.b.unidirectionalassociations.test;
+import javacore.b.unidirectionalassociations.domain.Team;
+import javacore.b.unidirectionalassociations.domain.Player;
 
 public class PlayerTest {
     // Unidirectional association (Player -> Team)

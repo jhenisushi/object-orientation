@@ -1,4 +1,4 @@
-package java.core.a.basic.concepts.domain;
+package javacore.a.basic.concepts.domain;
 
 public class Anime {
     // 1- memory allocation for the object

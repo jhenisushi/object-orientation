@@ -1,6 +1,6 @@
-package java.core.a.basic.concepts.test;
+package javacore.a.basic.concepts.test;
 
-import java.core.a.basic.concepts.domain.Player;
+import javacore.a.basic.concepts.domain.Player;
 
 public class PlayerTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.core.d.associations.domain;
+package javacore.d.associations.domain;
 
 public class Seminar {
     private String title;

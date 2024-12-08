@@ -1,9 +1,9 @@
-package java.core.d.associations.test;
+package javacore.d.associations.test;
 
-import java.core.d.associations.domain.Place;
-import java.core.d.associations.domain.Professor;
-import java.core.d.associations.domain.Seminar;
-import java.core.d.associations.domain.Student;
+import javacore.d.associations.domain.Place;
+import javacore.d.associations.domain.Professor;
+import javacore.d.associations.domain.Seminar;
+import javacore.d.associations.domain.Student;
 
 public class AssociationTest {
     public static void main(String[] args) {
