@@ -6,11 +6,12 @@ public class Team {
     private Player[] players;
 
     public Team(String teamA) {
+        this.name = teamA;
     }
 
     public Team(String name, Player[] players) {
-        this.name = name;
         this.players = players;
+        this.name = name;
     }
 
     public void showTeamInfo() {

@@ -14,9 +14,12 @@ public class TeamTest {
         Player[] players = {player, newPlayer};
         player.setTeam(team);
         newPlayer.setTeam(newTeam);
+        for (Player p : players) {
+            p.showPlayerInfo();
+        }
+
 
         team.setPlayers(players);
-        players[0].showPlayerInfo();
         team.showTeamInfo();
 
         player.showPlayerInfo();
