@@ -17,7 +17,10 @@ public class Car {
 
     // with final, I can't change the reference of BUYER for any instance of Car
     public final Buyer BUYER = new Buyer();
-    // Singleton pattern //
+    // --- Singleton pattern --- //
+
+    // resume: the final modifier does not allow overriding
+    // and can be used on classes, methods and attributes
 
     public double getMaxSpeed() {
         return maxSpeed;
